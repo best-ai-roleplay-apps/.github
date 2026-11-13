@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://chubby-gf.com/bestairoleplayapps">
-  <img src="https://raw.githubusercontent.com/best-ai-roleplay-apps/.github/main/bestairoleplayappsjpg" alt="Best AI Roleplay Apps - Unfiltered 2026 Guide" width="100%" />
+  <img src="https://raw.githubusercontent.com/best-ai-roleplay-apps/.github/main/bestairoleplayapps.jpg" alt="Best AI Roleplay Apps - Unfiltered 2026 Guide" width="100%" />
 </a>
 
 <h1>Best AI Roleplay Apps</h1>
